@@ -7,7 +7,7 @@ var text = 'Hello {0} {1}!';
 var array = ['Denislav','Veizov'];
 
 /**
- * Extracts from a given text all palindromes
+ * Formats a string using placeholders
  * @param {String} text
  * @param {Array} wordsArray
  * @return {string}
